@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Statistics with Python
 
 This repository contains a collection of Jupyter notebooks that cover various topics related to descriptive statistics and probability distributions using Python.
