@@ -34,6 +34,12 @@ In this notebook, we delve into probability distributions, covering:
 - Cumulative Distribution Functions (CDFs)
 - Sampling Techniques
 
+### 4. Sampling with Python
+[Sampling with Python.ipynb](https://github.com/sohaum/Statistics/blob/main/Sampling%20with%20Python.ipynb)
+
+- This repository provides a comprehensive collection of Jupyter notebooks and Python scripts aimed at performing statistical analysis and sampling.
+- Demonstrates various sampling methods including random, stratified, clustered and systematic sampling (Probability Sampling).
+
 ## Getting Started
 
 To run these notebooks, follow these steps:
